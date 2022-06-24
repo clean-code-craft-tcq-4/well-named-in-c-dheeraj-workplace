@@ -1,5 +1,5 @@
 #include "telephone_cable.h"
-
+#include "test_telephone_cable.h"
 int main()
 {
     testNumberToPair(4, WHITE, BROWN);
